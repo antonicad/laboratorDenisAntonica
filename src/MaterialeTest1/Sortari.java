@@ -1,8 +1,4 @@
-package Altele;
-
-import java.util.Arrays;
-
-import static java.util.Collections.swap;
+package MaterialeTest1;
 
 public class Sortari {
     // Sortari Bubble Sort (sortarea prin metoda bulelor)

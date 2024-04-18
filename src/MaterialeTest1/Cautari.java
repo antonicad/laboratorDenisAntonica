@@ -1,4 +1,4 @@
-package Altele;
+package MaterialeTest1;
 
 public class Cautari {
     // cautare liniara in sir ordonat

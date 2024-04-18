@@ -1,4 +1,4 @@
-package Altele;
+package MaterialeTest1;
 
 public class Recursive {
     public static void main(String[] args) {

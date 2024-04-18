@@ -1,4 +1,4 @@
-package Altele;
+package MaterialeTest1;
 import java.util.Arrays;
 public class MergeSortGPT {
     public static void main(String[] args) {

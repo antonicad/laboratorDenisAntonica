@@ -1,4 +1,4 @@
-package Altele;
+package MaterialeTest1;
 
 public class MergeSort {
     public static void main(String[] args){
